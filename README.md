@@ -1,5 +1,6 @@
-# docker-swarm-aliases
-Docker Swarm Aliases
+# Docker Aliases
+
+Docker Swarm
 
 ```bash
 function dscheck() {
